@@ -23,7 +23,7 @@ const Signin = () => {
         onSubmit={handleSubmit}
         className="bg-white p-8 rounded-lg shadow-md w-80"
       >
-        <h2 className="text-2xl font-bold text-center mb-6">Rigister Now</h2>
+        <h2 className="text-2xl font-bold text-center mb-6">Rigister</h2>
 
         <input
           type="name"
@@ -55,7 +55,7 @@ const Signin = () => {
           type="submit"
           className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition"
         >
-          Register Now
+          Register
         </button>
       </form>
     </div>
