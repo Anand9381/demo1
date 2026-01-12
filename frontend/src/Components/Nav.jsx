@@ -28,7 +28,7 @@ const Nav = () => {
           to="/signin"
           className="px-4 py-2 rounded bg-blue-600 hover:bg-blue-700 transition"
         >
-          Sign Up
+          Rigister Now
         </Link>
       </div>
 
